@@ -1,15 +1,15 @@
 ### YamlMime:Module
 uid: ""
 metadata:
-  title: # Add your desired module title. All titles must be sentence-case.
-  description: # Add a short description for your module for search engines.
+  title: Introduction to programming
+  description: Learn about programming languages and the tools that developers use to create software
   ms.date: 03/24/2020
   author: chloecodesthings
   ms.author: chcondon
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-title: # Your desired module title. Same as above.
-summary: # Add a short description for your module to be displayed to users. Can be the same as above.
+title: Introduction to programming
+summary: Learn about programming languages and the tools that developers use to create software
 abstract:  |
   In this module, you will learn:
   - What is programming?
