@@ -4,4 +4,5 @@ Most programs rely on using data from a user or elsewhere, where statements may 
 
 There's a chance that some statements will not be executed by a device. This is usually by design when written by the developer or by accident when an unexpected error occurs. This type of control of an application makes it more robust and maintainable. Typically these changes in control happen when certain decisions are met. A common statement in modern programming languages to control how a program is run is the `if...else` statement.
 
-- You'll learn more about this type of statement in subsequent lessons
+> [!TIP]
+> You'll learn more about this type of statement in subsequent lessons

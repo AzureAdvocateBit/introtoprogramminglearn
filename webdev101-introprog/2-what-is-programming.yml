@@ -1,59 +1,59 @@
 ### YamlMime:ModuleUnit
 uid: 
 metadata:
-  title: Knowledge Check
-  description: Knowledge Check
+  title: 
+  description: 
   ms.date: 03/24/2020
   author: chloecodesthings
   ms.author: chcondon
   ms.topic: interactive-tutorial
   ms.prod: learning-azure
-title: Knowledge Check
-durationInMinutes:
+title: Same as above
+durationInMinutes: 
 content: |
-  [!include[](includes/3-knowledge-check.md)]
+  [!include[](includes/2-unit.md)]
 quiz:
   title: Check your knowledge
   questions:
-  - content: "Question1"
+  - content: "A program can be created without the creator writing any code"
     choices:
-    - content: "Answer1"
-      isCorrect: false
+    - content: "True"
+      isCorrect: true
       explanation: "Explanation1"
-    - content: "Answer2"
+    - content: "False"
       isCorrect: false
       explanation: "Explanation2"
-    - content: "Answer3"
+    - content: "Anser3"
       isCorrect: false
       explanation: "Explanation3"
     - content: "Answer4"
-      isCorrect: true
+      isCorrect: false
       explanation: "Explanation4"
-  - content: "Question2"
+  - content: "Low level languages are a popular choice for"
     choices:
-    - content: "Answer1"
+    - content: "Websites"
       isCorrect: false
       explanation: "Explanation1"
-    - content: "Answer2"
-      isCorrect: false
+    - content: "Hardware"
+      isCorrect: true
       explanation: "Explanation2"
-    - content: "Answer3"
+    - content: "Video game software"
       isCorrect: false
       explanation: "Explanation3"
     - content: "Answer4"
-      isCorrect: true
+      isCorrect: false
       explanation: "Explanation4"
-  - content: "Question3"
+  - content: "Which one of these tools would most likely be in a web developer's environment?"
     choices:
-    - content: "Answer1"
+    - content: "Hardware, like a Raspberry Pi"
       isCorrect: false
       explanation: "Explanation1"
-    - content: "Answer2"
-      isCorrect: false
+    - content: "Browser DevTools"
+      isCorrect: true
       explanation: "Explanation2"
-    - content: "Answer3"
+    - content: "Operating system documentation"
       isCorrect: false
       explanation: "Explanation3"
     - content: "Answer4"
-      isCorrect: true
+      isCorrect: false
       explanation: "Explanation4"

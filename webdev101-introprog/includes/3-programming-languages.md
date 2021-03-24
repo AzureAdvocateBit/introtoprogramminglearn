@@ -45,5 +45,6 @@ back add r0,r1
 
 Believe it or not, they're both doing the same thing: printing a Fibonacci sequence up to 10.
 
-- A Fibonacci sequence is defined as a set of numbers such that each number is the sum of the two preceding ones, starting from 0 and 1.
+> [!TIP]
+> A Fibonacci sequence is defined as a set of numbers such that each number is the sum of the two preceding ones, starting from 0 and 1.
 

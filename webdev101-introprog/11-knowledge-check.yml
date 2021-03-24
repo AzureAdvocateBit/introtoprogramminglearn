@@ -1,0 +1,59 @@
+### YamlMime:ModuleUnit
+uid: 
+metadata:
+  title: Knowledge Check
+  description: Knowledge Check
+  ms.date: 03/24/2020
+  author: chloecodesthings
+  ms.author: chcondon
+  ms.topic: interactive-tutorial
+  ms.prod: learning-azure
+title: Knowledge Check
+durationInMinutes:
+content: |
+  [!include[](includes/3-knowledge-check.md)]
+quiz:
+  title: Check your knowledge
+  questions:
+  - content: "What language would you most likely use to create a website?"
+    choices:
+    - content: "Machine Code"
+      isCorrect: false
+      explanation: "Explanation1"
+    - content: "JavaScript"
+      isCorrect: true
+      explanation: "Explanation2"
+    - content: "Bash"
+      isCorrect: false
+      explanation: "Explanation3"
+    - content: "Answer4"
+      isCorrect: false
+      explanation: "Explanation4"
+  - content: "Development environments are unique to each developer."
+    choices:
+    - content: "True"
+      isCorrect: true
+      explanation: "Explanation1"
+    - content: "False"
+      isCorrect: false
+      explanation: "Explanation2"
+    - content: "Answer3"
+      isCorrect: false
+      explanation: "Explanation3"
+    - content: "Answer4"
+      isCorrect: false
+      explanation: "Explanation4"
+  - content: "What will a developer do to fix buggy code?"
+    choices:
+    - content: "Syntax Highlighting"
+      isCorrect: false
+      explanation: "Explanation1"
+    - content: "Debugging"
+      isCorrect: true
+      explanation: "Explanation2"
+    - content: "Code Formatting"
+      isCorrect: false
+      explanation: "Explanation3"
+    - content: "Answer4"
+      isCorrect: false
+      explanation: "Explanation4"
