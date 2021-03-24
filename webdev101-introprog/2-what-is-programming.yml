@@ -1,8 +1,8 @@
 ### YamlMime:ModuleUnit
 uid: 
 metadata:
-  title: 
-  description: 
+  title: What is programming?
+  description: Learn about a progrrammer's tools
   ms.date: 03/24/2020
   author: chloecodesthings
   ms.author: chcondon
@@ -26,9 +26,6 @@ quiz:
     - content: "Anser3"
       isCorrect: false
       explanation: "Explanation3"
-    - content: "Answer4"
-      isCorrect: false
-      explanation: "Explanation4"
   - content: "Low level languages are a popular choice for"
     choices:
     - content: "Websites"
@@ -40,9 +37,6 @@ quiz:
     - content: "Video game software"
       isCorrect: false
       explanation: "Explanation3"
-    - content: "Answer4"
-      isCorrect: false
-      explanation: "Explanation4"
   - content: "Which one of these tools would most likely be in a web developer's environment?"
     choices:
     - content: "Hardware, like a Raspberry Pi"
@@ -54,6 +48,3 @@ quiz:
     - content: "Operating system documentation"
       isCorrect: false
       explanation: "Explanation3"
-    - content: "Answer4"
-      isCorrect: false
-      explanation: "Explanation4"
