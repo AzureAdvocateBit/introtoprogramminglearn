@@ -1,8 +1,8 @@
 ### YamlMime:ModuleUnit
 uid: 
 metadata:
-  title: 
-  description: 
+  title: Browser technologies
+  description: Learn about browsers and how they relate to programming languages
   ms.date: 03/24/2020
   author: chloecodesthings
   ms.author: chcondon
@@ -11,4 +11,4 @@ metadata:
 title: Same as above
 durationInMinutes: 
 content: |
-  [!include[](includes/2-unit.md)]
+  [!include[](includes/7-browsers.md)]
