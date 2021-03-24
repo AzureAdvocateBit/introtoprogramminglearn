@@ -26,9 +26,6 @@ quiz:
     - content: "Bash"
       isCorrect: false
       explanation: "Explanation3"
-    - content: "Answer4"
-      isCorrect: false
-      explanation: "Explanation4"
   - content: "Development environments are unique to each developer."
     choices:
     - content: "True"
@@ -40,9 +37,6 @@ quiz:
     - content: "Answer3"
       isCorrect: false
       explanation: "Explanation3"
-    - content: "Answer4"
-      isCorrect: false
-      explanation: "Explanation4"
   - content: "What will a developer do to fix buggy code?"
     choices:
     - content: "Syntax Highlighting"
@@ -54,6 +48,3 @@ quiz:
     - content: "Code Formatting"
       isCorrect: false
       explanation: "Explanation3"
-    - content: "Answer4"
-      isCorrect: false
-      explanation: "Explanation4"
