@@ -19,13 +19,13 @@ quiz:
     choices:
     - content: "Machine Code"
       isCorrect: false
-      explanation: "Explanation1"
+      explanation: "Although it is possible to write programs with machine code, it is rarely used as it is a low-level language."
     - content: "JavaScript"
       isCorrect: true
-      explanation: "Explanation2"
+      explanation: "Correct- JavaScript is primarily used for web applications and is considered a high level language."
     - content: "Bash"
       isCorrect: false
-      explanation: "Explanation3"
+      explanation: "Bash is primarily used for operating systems and not websites."
   - content: "The tools that developers use to organize their work are called"
     choices:
     - content: "The development environment"
@@ -41,10 +41,10 @@ quiz:
     choices:
     - content: "Syntax Highlighting"
       isCorrect: false
-      explanation: "Explanation1"
+      explanation: "While syntax highlighting helps make our code easier to read by adding colors, formatting, and identifying inconsistencies, it is not a debugging tool."
     - content: "Debugging"
       isCorrect: true
-      explanation: "Explanation2"
+      explanation: "Correct- the best way to fix buggy code is to de-bug it!"
     - content: "Code Formatting"
       isCorrect: false
-      explanation: "Explanation3"
+      explanation: "While code formatters help developers parse code and reprint it to make it more readable, it isn't a common debugging tool."

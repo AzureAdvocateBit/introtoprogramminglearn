@@ -6,5 +6,4 @@ A program can be anything that is written with code; websites, games, and phone 
 > [!TIP]
 > Do a little research: who is considered to have been the world's first computer programmer?
 
-Before you get started, consider let's check in with what you know now!
-
+Before you get started, let's check in with what you know now!

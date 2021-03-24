@@ -30,7 +30,7 @@ quiz:
     choices:
     - content: "Websites"
       isCorrect: false
-      explanation: "Explanation1"
+      explanation: "Incorrect- websites require "
     - content: "Hardware"
       isCorrect: true
       explanation: "Explanation2"
