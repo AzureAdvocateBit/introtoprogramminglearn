@@ -26,17 +26,17 @@ quiz:
     - content: "Bash"
       isCorrect: false
       explanation: "Explanation3"
-  - content: "Development environments are unique to each developer."
+  - content: "The tools that developers use to organize their work are called"
     choices:
-    - content: "True"
+    - content: "The development environment"
       isCorrect: true
-      explanation: "Explanation1"
-    - content: "False"
+      explanation: "These tools form an entire environment that provides all the needed helpful toolchain"
+    - content: "The development toolkit"
       isCorrect: false
-      explanation: "Explanation2"
-    - content: "Answer3"
+      explanation: "Close, but these tools form more than a simple toolkit"
+    - content: "The development arsenal"
       isCorrect: false
-      explanation: "Explanation3"
+      explanation: "That's not right!"
   - content: "What will a developer do to fix buggy code?"
     choices:
     - content: "Syntax Highlighting"
